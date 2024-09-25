@@ -1,0 +1,4 @@
+.env
+points_database.json
+venv
+__pycache__
